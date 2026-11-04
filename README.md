@@ -38,7 +38,7 @@ This repository holds **prototype v0.1.0**: a playable 2D vertical slice that ru
 
 **In a browser:** open `index.html`. On a phone, turn it sideways.
 
-**On Android:** build the APK (below) or download it from the Releases page, then install it. Android will warn that the app is from an unknown developer because it is signed with a test key.
+**On Android:** build the APK (below), or download it from this repository's Releases page when a build is attached there, then install it. Android will warn that the app is from an unknown developer because it is signed with a test key.
 
 ### Controls
 
