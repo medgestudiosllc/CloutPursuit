@@ -1,0 +1,21 @@
+# Signing keys: never commit
+android/keys/
+*.pem
+*.jks
+*.keystore
+
+# Build output
+android/build/
+dist/
+*.apk
+*.aab
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
